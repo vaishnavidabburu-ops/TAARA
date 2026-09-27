@@ -21,3 +21,4 @@ This version contains **heatwave / thermal-stress simulation only**. Flood and r
 4. Framework: Vite.
 5. Build command: npm run build.
 6. Output directory: dist.
+# TAARA
